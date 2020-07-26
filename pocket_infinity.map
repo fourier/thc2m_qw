@@ -20489,8 +20489,8 @@
 {
 "classname" "light"
 "origin" "808 132 292"
-"light" "100"
-"delay" "0"
+"light" "200"
+"delay" "3"
 "angle" "0"
 }
 // entity 22
@@ -21226,4 +21226,10 @@
 "light" "100"
 "wait" "2"
 "angle" "90"
+}
+// entity 114
+{
+"classname" "light"
+"origin" "512 213 385"
+"light" "400"
 }
