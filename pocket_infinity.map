@@ -19453,7 +19453,7 @@
 // entity 141
 {
 "classname" "info_teleport_destination"
-"origin" "378 -495 301"
+"origin" "378 -288 301"
 "angle" "180"
 "targetname" "tele_dest_air"
 }
