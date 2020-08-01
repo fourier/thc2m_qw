@@ -5,7 +5,7 @@
 "classname" "worldspawn"
 "wad" "../resources/wads/prototype.wad;../resources/wads/floors.wad;../resources/wads/SOLIDS3.WAD;../resources/wads/catalyst.wad;../resources/wads/liquids.wad;../resources/wads/ubiLight_v103.wad;../resources/wads/liquidz_v2.wad;../resources/wads/pocket.wad"
 "light" "1"
-"_sunlight" "820"
+"_sunlight" "200"
 "worldtype" "1"
 // brush 0
 {
