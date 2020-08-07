@@ -18372,14 +18372,9 @@
 // entity 165
 {
 "classname" "weapon_rocketlauncher"
-"origin" "-674 -52 163"
+"origin" "-674 77 163"
 }
 // entity 166
-{
-"classname" "weapon_grenadelauncher"
-"origin" "-222 -378 14"
-}
-// entity 167
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18417,7 +18412,7 @@
 ( 800 -48 490 ) ( 800 -16 490 ) ( 800 -16 483 ) gray_1 0 0 0 1 1
 }
 }
-// entity 168
+// entity 167
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18455,7 +18450,7 @@
 ( 800 -176 517 ) ( 800 -144 517 ) ( 800 -144 490 ) gray_1 0 0 0 1 1
 }
 }
-// entity 169
+// entity 168
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18493,7 +18488,7 @@
 ( 664 -48 517 ) ( 664 -16 517 ) ( 664 -16 476 ) gray_1 0 0 0 1 1
 }
 }
-// entity 170
+// entity 169
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18531,7 +18526,7 @@
 ( 664 -176 517 ) ( 664 -144 517 ) ( 664 -144 476 ) gray_1 0 0 0 1 1
 }
 }
-// entity 171
+// entity 170
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18570,7 +18565,7 @@
 ( 744 -232 598 ) ( 744 -224 598 ) ( 744 -224 585 ) green_border 0 0 0 1 1
 }
 }
-// entity 172
+// entity 171
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18608,7 +18603,7 @@
 ( 752 24 517 ) ( 752 32 517 ) ( 752 32 490 ) green_border 0 0 0 1 1
 }
 }
-// entity 173
+// entity 172
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18767,7 +18762,7 @@
 ( 176 240 517 ) ( 176 448 517 ) ( 176 448 490 ) green_border 0 0 0 1 1
 }
 }
-// entity 174
+// entity 173
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18859,7 +18854,7 @@
 ( 256 -80 558 ) ( 256 -64 558 ) ( 256 -64 449 ) green_border 0 0 0 1 1
 }
 }
-// entity 175
+// entity 174
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18880,7 +18875,7 @@
 ( 72 336 374 ) ( 72 368 374 ) ( 56 368 360 ) gray_1 0 0 0 1 1
 }
 }
-// entity 176
+// entity 175
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18893,7 +18888,7 @@
 ( 608 176 517 ) ( 608 208 517 ) ( 608 208 490 ) gray_1 0 0 0 1 1
 }
 }
-// entity 177
+// entity 176
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18987,7 +18982,7 @@
 ( 744 -176 61 ) ( 744 -80 61 ) ( 744 -80 54 ) gray_1 0 0 0 1 1
 }
 }
-// entity 178
+// entity 177
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19081,7 +19076,7 @@
 ( -176 -616 14 ) ( -176 -608 14 ) ( -176 -608 7 ) gray_1 0 0 0 1 1
 }
 }
-// entity 179
+// entity 178
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19148,7 +19143,7 @@
 ( 560 280 231 ) ( 560 288 231 ) ( 560 288 224 ) gray_1 0 0 0 1 1
 }
 }
-// entity 180
+// entity 179
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19178,7 +19173,7 @@
 ( 304 600 374 ) ( 304 616 374 ) ( 304 616 360 ) green_border 0 0 0 1 1
 }
 }
-// entity 181
+// entity 180
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19208,13 +19203,13 @@
 ( 400 600 374 ) ( 400 616 374 ) ( 400 616 360 ) green_border 0 0 0 1 1
 }
 }
-// entity 182
+// entity 181
 {
 "classname" "light"
 "origin" "117 505 399"
 "light" "200"
 }
-// entity 183
+// entity 182
 {
 "classname" "light"
 "origin" "272 170 203"
@@ -19222,7 +19217,7 @@
 "_color" "134 229 246"
 "delay" "3"
 }
-// entity 184
+// entity 183
 {
 "classname" "light"
 "origin" "490 234 355"
@@ -19230,34 +19225,49 @@
 "_color" "255 252 138"
 "delay" "3"
 }
-// entity 185
+// entity 184
 {
 "classname" "light"
 "origin" "-775 -649 422"
 "light" "200"
 }
-// entity 186
-{
-"classname" "item_cells"
-"origin" "422 -608 272"
-}
-// entity 187
+// entity 185
 {
 "classname" "item_cells"
 "origin" "384 -920 -7"
 }
-// entity 188
+// entity 186
 {
 "classname" "item_cells"
 "origin" "416 -360 14"
 }
-// entity 189
+// entity 187
 {
 "classname" "item_health"
 "origin" "769 -603 61"
 }
-// entity 190
+// entity 188
 {
 "classname" "item_cells"
 "origin" "-360 -627 211"
+}
+// entity 189
+{
+"classname" "weapon_grenadelauncher"
+"origin" "221 -266 265"
+}
+// entity 190
+{
+"classname" "weapon_lightning"
+"origin" "-208 -357 14"
+}
+// entity 191
+{
+"classname" "item_health"
+"origin" "403 -612 272"
+}
+// entity 192
+{
+"classname" "item_health"
+"origin" "324 -688 272"
 }
