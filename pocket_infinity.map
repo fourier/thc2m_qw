@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"wad" "../resources/wads/prototype.wad;../resources/wads/floors.wad;../resources/wads/SOLIDS3.WAD;../resources/wads/liquids.wad;../resources/wads/ubiLight_v103.wad;../resources/wads/liquidz_v2.wad;../resources/wads/pocket.wad;../resources/wads/solids.wad"
+"wad" "pocket.wad"
 "light" "1"
 "_sunlight" "200"
 "worldtype" "1"
@@ -7836,7 +7836,7 @@
 ( 224 720 279 ) ( 224 880 279 ) ( 208 880 279 ) floorpocket8 0 0 0 1 1
 ( 208 880 286 ) ( 224 880 286 ) ( 224 720 286 ) floorpocket8 0 0 0 1 1
 ( 224 880 286 ) ( 208 880 286 ) ( 208 880 279 ) floorpocket8 0 0 0 1 1
-( 224 720 286 ) ( 224 880 286 ) ( 224 880 279 ) floorpocket8 0 0 0 1 1
+( 224 720 286 ) ( 224 880 286 ) ( 224 880 279 ) detail_metal06 0 0 0 1 1
 }
 // brush 900
 {
@@ -8875,7 +8875,7 @@
 {
 ( 480 968 544 ) ( 480 608 544 ) ( 480 608 435 ) wallpocket9 0 0 0 1 1
 ( 480 608 544 ) ( 880 608 544 ) ( 880 608 435 ) wallpocket9 0 0 0 1 1
-( 880 608 435 ) ( 880 968 435 ) ( 480 968 435 ) wallpocket9 0 0 0 1 1
+( 880 608 435 ) ( 880 968 435 ) ( 480 968 435 ) ceil_metal 0 0 0 1 1
 ( 480 968 544 ) ( 880 968 544 ) ( 880 608 544 ) wallpocket9 0 0 0 1 1
 ( 880 968 544 ) ( 480 968 544 ) ( 480 968 435 ) wallpocket9 0 0 0 1 1
 ( 880 608 544 ) ( 880 968 544 ) ( 880 968 435 ) wallpocket9 0 0 0 1 1
@@ -9021,7 +9021,7 @@
 ( 224 880 279 ) ( 224 896 279 ) ( 208 896 279 ) floorpocket8 0 0 0 1 1
 ( 208 896 286 ) ( 224 896 286 ) ( 224 880 286 ) floorpocket8 0 0 0 1 1
 ( 224 896 286 ) ( 208 896 286 ) ( 208 896 279 ) floorpocket8 0 0 0 1 1
-( 224 880 286 ) ( 224 896 286 ) ( 224 896 279 ) floorpocket8 0 0 0 1 1
+( 224 880 286 ) ( 224 896 286 ) ( 224 896 279 ) wallpocket12 0 0 0 1 1
 }
 // brush 1037
 {
@@ -9156,7 +9156,7 @@
 ( 208 720 286 ) ( 224 720 286 ) ( 224 704 286 ) floorpocket8 0 0 0 1 1
 ( 224 720 279 ) ( 224 720 286 ) ( 208 720 286 ) floorpocket8 0 0 0 1 1
 ( 208 688 279 ) ( 208 688 286 ) ( 224 704 286 ) floorpocket8 0 0 0 1 1
-( 224 704 286 ) ( 224 720 286 ) ( 224 720 279 ) floorpocket8 0 0 0 1 1
+( 224 704 286 ) ( 224 720 286 ) ( 224 720 279 ) wallpocket12 0 0 0 1 1
 }
 // brush 1052
 {
