@@ -17592,50 +17592,6 @@
 "classname" "func_detail_wall"
 // brush 0
 {
-( 392 -312 544 ) ( 392 -352 544 ) ( 392 -352 391 ) wallpocket12 0 0 0 1 1
-( 396 -352 391 ) ( 392 -345 391 ) ( 392 -345 519 ) wallpocket12 0 0 0 1 1
-( 396 -312 391 ) ( 392 -319 519 ) ( 392 -319 391 ) wallpocket12 0 0 0 1 1
-( 392 -352 544 ) ( 432 -352 544 ) ( 432 -352 391 ) wallpocket12 0 0 0 1 1
-( 432 -352 384 ) ( 432 -312 384 ) ( 392 -312 384 ) wallpocket12 0 0 0 1 1
-( 392 -312 544 ) ( 432 -312 544 ) ( 432 -352 544 ) wallpocket12 0 0 0 1 1
-( 432 -312 544 ) ( 392 -312 544 ) ( 392 -312 391 ) wallpocket12 0 0 0 1 1
-( 408 -352 391 ) ( 412 -345 519 ) ( 412 -345 391 ) wallpocket12 0 0 0 1 1
-( 412 -319 391 ) ( 408 -312 519 ) ( 408 -312 391 ) wallpocket12 0 0 0 1 1
-( 412 -352 544 ) ( 412 -312 544 ) ( 412 -312 391 ) wallpocket12 0 0 0 1 1
-}
-// brush 1
-{
-( 392 -345 544 ) ( 396 -352 672 ) ( 396 -352 544 ) wallpocket7 0 0 0 1 1
-( 396 -312 544 ) ( 392 -319 672 ) ( 392 -319 544 ) wallpocket7 0 0 0 1 1
-( 404 -312 558 ) ( 404 -336 558 ) ( 392 -336 544 ) wallpocket7 0 0 0 1 1
-( 392 -352 544 ) ( 404 -352 558 ) ( 448 -352 558 ) wallpocket7 0 0 0 1 1
-( 392 -336 544 ) ( 448 -336 544 ) ( 448 -312 544 ) wallpocket7 0 0 0 1 1
-( 404 -312 558 ) ( 448 -312 558 ) ( 448 -336 558 ) wallpocket7 0 0 0 1 1
-( 448 -312 544 ) ( 448 -312 558 ) ( 404 -312 558 ) wallpocket7 0 0 0 1 1
-( 448 -336 558 ) ( 448 -312 558 ) ( 448 -312 544 ) wallpocket7 0 0 0 1 1
-}
-// brush 2
-{
-( 392 -312 391 ) ( 392 -352 391 ) ( 392 -352 357 ) wallpocket12 0 0 0 1 1
-( 392 -345 391 ) ( 396 -352 512 ) ( 396 -352 384 ) wallpocket12 0 0 0 1 1
-( 392 -345 371 ) ( 396 -352 364 ) ( 392 -319 371 ) wallpocket12 0 0 0 1 1
-( 392 -319 391 ) ( 396 -312 384 ) ( 396 -312 512 ) wallpocket12 0 0 0 1 1
-( 432 -352 391 ) ( 448 -352 391 ) ( 448 -352 357 ) wallpocket12 0 0 0 1 1
-( 432 -345 357 ) ( 432 -352 364 ) ( 560 -352 364 ) wallpocket12 0 0 0 1 1
-( 432 -345 391 ) ( 560 -352 384 ) ( 432 -352 384 ) wallpocket12 0 0 0 1 1
-( 448 -352 357 ) ( 448 -312 357 ) ( 432 -312 357 ) wallpocket12 0 0 0 1 1
-( 432 -312 391 ) ( 448 -312 391 ) ( 448 -352 391 ) wallpocket12 0 0 0 1 1
-( 432 -319 357 ) ( 560 -312 364 ) ( 432 -312 364 ) wallpocket12 0 0 0 1 1
-( 432 -312 384 ) ( 560 -319 391 ) ( 432 -319 391 ) wallpocket12 0 0 0 1 1
-( 448 -312 391 ) ( 432 -312 391 ) ( 432 -312 357 ) wallpocket12 0 0 0 1 1
-( 448 -352 391 ) ( 448 -312 391 ) ( 448 -312 357 ) wallpocket12 0 0 0 1 1
-}
-}
-// entity 204
-{
-"classname" "func_detail_wall"
-// brush 0
-{
 ( 224 -576 462 ) ( 224 -704 462 ) ( 224 -704 449 ) green_stuff 0 0 0 1 1
 ( 224 -704 462 ) ( 256 -704 462 ) ( 256 -704 449 ) wallpocket12 0 0 0 1 1
 ( 256 -704 449 ) ( 256 -576 449 ) ( 224 -576 449 ) wallpocket12 0 0 0 1 1
@@ -17653,7 +17609,7 @@
 ( 256 -576 558 ) ( 256 -560 558 ) ( 256 -560 462 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 205
+// entity 204
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -17675,7 +17631,7 @@
 ( 80 -384 544 ) ( 80 -352 544 ) ( 80 -352 462 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 206
+// entity 205
 {
 "classname" "func_detail"
 // brush 0
@@ -17704,7 +17660,7 @@
 ( -304 -400 490 ) ( -304 -368 490 ) ( -312 -368 483 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 207
+// entity 206
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -17733,7 +17689,7 @@
 ( -336 -344 490 ) ( -336 -336 490 ) ( -336 -344 483 ) wallpocket12 32 0 180 1 -1
 }
 }
-// entity 208
+// entity 207
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -17762,7 +17718,7 @@
 ( -384 -400 442 ) ( -384 -368 442 ) ( -384 -368 435 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 209
+// entity 208
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -17791,7 +17747,7 @@
 ( -336 -424 490 ) ( -336 -424 483 ) ( -336 -432 490 ) wallpocket12 32 0 0 1 1
 }
 }
-// entity 210
+// entity 209
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -17863,7 +17819,7 @@
 ( -624 -448 490 ) ( -624 -444 490 ) ( -624 -444 462 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 211
+// entity 210
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -17954,7 +17910,7 @@
 ( -792 -320 544 ) ( -792 -288 544 ) ( -792 -288 456 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 212
+// entity 211
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -17967,7 +17923,7 @@
 ( -768 -76 367 ) ( -768 -52 367 ) ( -768 -52 313 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 213
+// entity 212
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18031,7 +17987,7 @@
 ( -560 -80 245 ) ( -560 -48 245 ) ( -560 -48 238 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 214
+// entity 213
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18069,7 +18025,7 @@
 ( -768 96 326 ) ( -768 64 326 ) ( -752 64 340 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 215
+// entity 214
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18107,7 +18063,7 @@
 ( -656 136 544 ) ( -656 144 544 ) ( -656 144 476 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 216
+// entity 215
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18145,7 +18101,7 @@
 ( -464 136 544 ) ( -464 144 544 ) ( -464 144 476 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 217
+// entity 216
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18183,7 +18139,7 @@
 ( -272 136 517 ) ( -272 144 517 ) ( -272 144 476 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 218
+// entity 217
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18221,7 +18177,7 @@
 ( -144 64 517 ) ( -144 96 517 ) ( -144 96 476 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 219
+// entity 218
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18285,7 +18241,7 @@
 ( -208 16 517 ) ( -208 24 517 ) ( -208 24 476 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 220
+// entity 219
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18358,7 +18314,7 @@
 ( -400 -16 211 ) ( -400 -8 211 ) ( -400 -16 204 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 221
+// entity 220
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18431,7 +18387,7 @@
 ( -496 -16 211 ) ( -496 -8 211 ) ( -496 -16 204 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 222
+// entity 221
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18469,49 +18425,49 @@
 ( -656 16 517 ) ( -656 24 517 ) ( -656 24 476 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 223
+// entity 222
 {
 "classname" "weapon_rocketlauncher"
 "origin" "128 512 286"
 }
-// entity 224
+// entity 223
 {
 "classname" "weapon_grenadelauncher"
 "origin" "-241 -774 301"
 }
-// entity 225
+// entity 224
 {
 "classname" "item_rockets"
 "origin" "416 -365 14"
 }
-// entity 226
+// entity 225
 {
 "classname" "item_cells"
 "origin" "96 256 231"
 }
-// entity 227
+// entity 226
 {
 "classname" "item_health"
 "origin" "324 -612 272"
 "spawnflags" "0"
 }
-// entity 228
+// entity 227
 {
 "classname" "item_cells"
 "origin" "414 -605 272"
 "spawnflags" "1"
 }
-// entity 229
+// entity 228
 {
 "classname" "item_spikes"
 "origin" "447 -146 61"
 }
-// entity 230
+// entity 229
 {
 "classname" "item_shells"
 "origin" "98 310 231"
 }
-// entity 231
+// entity 230
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18531,7 +18487,7 @@
 ( 304 -416 544 ) ( 304 -416 530 ) ( 288 -432 530 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 232
+// entity 231
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18543,7 +18499,7 @@
 ( -400 -328 510 ) ( -400 -328 496 ) ( -408 -336 496 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 233
+// entity 232
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18556,7 +18512,7 @@
 ( 584 -192 61 ) ( 584 -64 61 ) ( 584 -64 48 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 234
+// entity 233
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18623,7 +18579,7 @@
 ( 752 -192 61 ) ( 752 -176 61 ) ( 752 -176 48 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 235
+// entity 234
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18707,7 +18663,7 @@
 ( 736 -336 48 ) ( 736 -336 54 ) ( 736 -320 54 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 236
+// entity 235
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18807,7 +18763,7 @@
 ( 528 -320 54 ) ( 528 -304 54 ) ( 528 -304 14 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 237
+// entity 236
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -18919,7 +18875,7 @@
 ( 428 -736 14 ) ( 428 -720 14 ) ( 428 -720 -27 ) detail_metal06 0 0 0 1 1
 }
 }
-// entity 238
+// entity 237
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19085,7 +19041,7 @@
 ( -124 -240 54 ) ( -124 -224 54 ) ( -124 -224 14 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 239
+// entity 238
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19197,7 +19153,7 @@
 ( -64 -48 82 ) ( -64 -28 82 ) ( -64 -28 0 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 240
+// entity 239
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19236,7 +19192,7 @@
 ( 704 -368 34 ) ( 704 -352 34 ) ( 704 -352 14 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 241
+// entity 240
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19283,7 +19239,7 @@
 ( 960 -304 218 ) ( 960 -272 218 ) ( 960 -272 190 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 242
+// entity 241
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19323,7 +19279,7 @@
 ( -768 -128 408 ) ( -768 0 408 ) ( -768 0 163 ) green_stuff 0 0 0 1 1
 }
 }
-// entity 243
+// entity 242
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19423,7 +19379,7 @@
 ( 496 656 218 ) ( 496 672 218 ) ( 496 672 177 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 244
+// entity 243
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19547,7 +19503,7 @@
 ( 400 384 224 ) ( 400 592 224 ) ( 400 592 177 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 245
+// entity 244
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19647,7 +19603,7 @@
 ( 400 700 245 ) ( 400 720 245 ) ( 400 720 238 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 246
+// entity 245
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19747,7 +19703,7 @@
 ( 240 704 279 ) ( 240 720 279 ) ( 240 720 272 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 247
+// entity 246
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19847,7 +19803,7 @@
 ( 336 160 258 ) ( 336 176 258 ) ( 336 176 252 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 248
+// entity 247
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19875,7 +19831,7 @@
 ( 176 144 265 ) ( 176 160 265 ) ( 176 160 218 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 249
+// entity 248
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -19999,7 +19955,7 @@
 ( -80 -352 231 ) ( 0 -352 266 ) ( 0 -224 266 ) wallpocket12 0 0 0 1 1
 }
 }
-// entity 250
+// entity 249
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -20083,7 +20039,7 @@
 ( -160 -560 238 ) ( -160 -544 238 ) ( -160 -544 231 ) detail_metal06 0 0 0 1 1
 }
 }
-// entity 251
+// entity 250
 {
 "classname" "func_detail_wall"
 // brush 0
@@ -20094,5 +20050,27 @@
 ( 249 272 428 ) ( 261 272 435 ) ( 259 272 433 ) wallpocket12 32 0 180 1 -1
 ( 224 272 435 ) ( 259 274 435 ) ( 261 272 435 ) wallpocket12 32 0 180 1 -1
 ( 231 280 435 ) ( 231 272 428 ) ( 231 272 556 ) wallpocket12 1.80795 40.4392 0 1 0.875
+}
+}
+// entity 251
+{
+"classname" "func_detail_wall"
+// brush 0
+{
+( 396 -352 462 ) ( 396 -352 558 ) ( 396 -384 558 ) wallpocket12 -32 0 0 1 1
+( 412 -384 449 ) ( 412 -352 449 ) ( 396 -352 462 ) wallpocket12 -32 -28 90 1 1
+( 396 -384 558 ) ( 412 -384 558 ) ( 412 -384 449 ) green_stuff 28 0 180 1 -1
+( 396 -384 558 ) ( 396 -352 558 ) ( 412 -352 558 ) wallpocket12 -32 -28 90 1 1
+( 412 -352 558 ) ( 396 -352 558 ) ( 396 -352 462 ) green_stuff 28 0 180 1 -1
+( 412 -384 449 ) ( 412 -384 558 ) ( 412 -352 558 ) wallpocket12 -32 0 0 1 1
+}
+// brush 1
+{
+( 412 -352 462 ) ( 412 -384 462 ) ( 412 -384 449 ) wallpocket12 -32 0 0 1 1
+( 412 -384 462 ) ( 540 -384 462 ) ( 540 -384 449 ) green_stuff 28 0 180 1 -1
+( 540 -352 449 ) ( 412 -352 449 ) ( 412 -384 449 ) wallpocket12 -32 -28 90 1 1
+( 412 -384 462 ) ( 412 -352 462 ) ( 540 -352 462 ) wallpocket12 -32 -28 90 1 1
+( 540 -352 462 ) ( 412 -352 462 ) ( 412 -352 449 ) green_stuff 28 0 180 1 -1
+( 448 -352 449 ) ( 448 -352 450 ) ( 448 -224 450 ) wallpocket12 -32 0 0 1 1
 }
 }
