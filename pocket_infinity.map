@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"wad" "pocket.wad;../resources/wads/speedy_cr8.wad;../resources/wads/stones1.wad;../resources/wads/stones2.wad;../resources/wads/bulowad2.wad"
+"wad" "pocket.wad;speedy_cr8.wad;stones1.wad;stones2.wad;bulowad2.wad"
 "light" "1"
 "_sunlight" "200"
 "worldtype" "1"
