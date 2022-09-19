@@ -9,7 +9,7 @@ to properly view & compile the `.map` file you will need:
 
 ## Preferred Compilation settings
 
-`qbsp -splitturb -subdivide 480`
+`qbsp -splitturb`
 
 `vis -noambient`
 
