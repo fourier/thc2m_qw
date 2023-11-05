@@ -3,14 +3,13 @@
 ## Requirements
 to properly view & compile the `.map` file you will need:
 
-- the .wad files included in this folder
-- Makkon's concrete, tech, and metal wads ([Makkon Textures](https://www.slipseer.com/index.php?resources/makkon-textures.28/) - too big to include here!)
-- a recent build of Paril's fork of ericw tools ([nightly builds here](https://ci.appveyor.com/project/EricWasylishen/ericw-tools/history) - you're looking for the latest build from the `type-cleanup` branch)
+- the pocket_infinity.wad file included in this folder
+- a 2.0.0 alpha + build of ericw tools ([latest build here](https://github.com/ericwa/ericw-tools/releases/tag/2.0.0-alpha3))
 
 ## Preferred Compilation settings
 
 `qbsp -splitturb`
-
 `vis -noambient`
+`light -soft -extra4 -surflight_subdivide 16 -bspxlit -sunsamples 1000 -emissivequality`
 
-`light -soft -extra4 -surflight_subdivide 24 -bspxlit`
+*to compile the new experimental highres lightmap (ezquake 3.6.4+ only), add `-world_units_per_luxel 8 -novanilla` to the params passed to `light`
