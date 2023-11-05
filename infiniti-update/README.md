@@ -9,7 +9,10 @@ to properly view & compile the `.map` file you will need:
 ## Preferred Compilation settings
 
 `qbsp -splitturb`
-`vis -noambient`
-`light -soft -extra4 -surflight_subdivide 16 -bspxlit -sunsamples 1000 -emissivequality`
 
-*to compile the new experimental highres lightmap (ezquake 3.6.4+ only), add `-world_units_per_luxel 8 -novanilla` to the params passed to `light`
+`vis -noambient`
+
+`light -soft -extra4 -surflight_subdivide 16 -bspxlit -sunsamples 1000 -emissivequality high`
+
+
+_*to compile the new experimental highres lightmap (ezquake 3.6.4+ only), add `-world_units_per_luxel 8 -novanilla` to the params passed to `light`_
